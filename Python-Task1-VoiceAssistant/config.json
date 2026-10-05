@@ -1,0 +1,18 @@
+{
+    "contacts": {
+        "mom": "your_mom_email@gmail.com",
+        "friend": "your_friend@gmail.com"
+    },
+
+    "custom_commands": {
+        "study mode": {
+            "type": "response",
+            "value": "Study mode activated. Stay focused!"
+        },
+
+        "open college": {
+            "type": "url",
+            "value": "https://www.google.com"
+        }
+    }
+}
